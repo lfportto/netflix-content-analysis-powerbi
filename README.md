@@ -1,6 +1,6 @@
 # Dashboard do Catálogo de Conteúdo da Netflix (2008-2021)
 
-📄 [English version]
+📄 [English version](README_English.md)
 
 ## Descrição
 Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI para análise do catálogo de conteúdos da Netflix.
