@@ -123,4 +123,4 @@ Os dados utilizados são públicos e foram obtidos no site `Kaggle`. Você pode 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Tags
-`#PowerBI` `#AnaliseDeDados` `#Dashboard` `#EngenhariaDeDados` `#DataAnalysis` `#DataEngineering` `#ETL` `#ELT` `#BusinessIntelligence` `#BI` `#DataVisualization` `#PublicData` `#MySQL` `#SQL` `#OpenData` `#Netflix` `#PortfolioProject`
+`#PowerBI` `#AnaliseDeDados` `#Dashboard` `#EngenhariaDeDados` `#DataAnalysis` `#DataEngineering` `#ETL` `#BusinessIntelligence` `#BI` `#DataVisualization` `#PublicData` `#MySQL` `#SQL` `#OpenData` `#Netflix` `#PortfolioProject`
