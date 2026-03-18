@@ -4,7 +4,7 @@
 
 ## Descrição
 Este projeto consiste no desenvolvimento de um dashboard interativo no Power BI para análise do catálogo de conteúdos da Netflix.
-A solução foi construída com base em um dataset histórico contendo informações sobre filmes e séries disponibilizados na plataforma entre 2008 e 2021, com o objetivo de transformar dados brutos em insights relevantes por meio de um fluxo completo de análise de dados.
+A solução foi construída com base em um dataset histórico contendo informações sobre filmes e séries disponibilizados na plataforma entre 2008 e 2021, com o objetivo de transformar dados brutos em insights relevantes por meio de um fluxo completo de análise de dados. Foi utilizada uma abordagem ETL (Extract, Transform, Load).
 
 ## 🎯 Objetivo do Projeto
 Este é um projeto pessoal desenvolvido com foco no aprimoramento de habilidades em análise de dados, incluindo:
@@ -29,7 +29,8 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
   - Armazenamento dos dados;
   - Tratamento, limpeza e padronização de encoding (UTF-8);
   - Criação de colunas para conversão de unidades;
-  - Criação de colunas de apoio para ordenação.
+  - Criação de colunas de apoio para ordenação.  
+  📁 [Veja o script final já tratado aqui](netflix_titles_final.sql)
 
 - **Power BI**
   - Conexão com o banco de dados MySQL;
@@ -92,7 +93,7 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
 ![Tooltip](https://github.com/user-attachments/assets/522295c0-cb4f-48da-95a7-a6f0d856d968)
 
 ## Paleta de Cores
-![Paleta](https://github.com/user-attachments/assets/eeb7d9d5-3822-4f8e-a4f3-2a9b521e4b6f)
+![Paleta](https://github.com/user-attachments/assets/bfe3dc6a-2f32-4e4a-9617-9bf392546e58)
 
 ## Principais Insights
 &nbsp;&nbsp;&nbsp;&nbsp;A análise do catálogo da Netflix ao longo do período de 2008 a 2021 revela padrões claros de crescimento, posicionamento estratégico e distribuição de conteúdo.
