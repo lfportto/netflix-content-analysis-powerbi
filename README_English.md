@@ -69,12 +69,12 @@ Additionally, the dashboard was designed to answer the following analytical ques
 **Executive Overview:** Overview with key indicators and catalog distribution.  
 🎯 **Objective:** provide an executive summary for quick understanding of the overall scenario.
 
-![Aba1](https://github.com/user-attachments/assets/2aec2ef2-ded4-4724-9a4a-d4959c53b070)
+![Aba1](https://github.com/user-attachments/assets/8cb8d2ef-543b-4ab5-b0a1-bcc205c45ba4)
 
 **Temporal Evolution:** Analysis of catalog evolution over time.  
 🎯 **Objective:** identify growth, patterns, and changes over the years.
 
-![Aba2](https://github.com/user-attachments/assets/b97390af-396a-48c7-b88b-67c7a8016336)
+![Aba2](https://github.com/user-attachments/assets/acfb9872-0627-43db-a62e-b35e6d135f64)
 
 **Geographic Distribution:** Geographic distribution of content.  
 🎯 **Objective:** analyze the origin of titles and global concentration.
@@ -93,7 +93,7 @@ Additionally, the dashboard was designed to answer the following analytical ques
 
 **Tooltip:** On all pages, in the top-right corner, there is an information icon that, when hovered over, reveals a tooltip with details about the dashboard, the data source, and the purpose of this project. The image below shows the first page with the informational tooltip open.
 
-![Tooltip](https://github.com/user-attachments/assets/522295c0-cb4f-48da-95a7-a6f0d856d968)
+![Tooltip](https://github.com/user-attachments/assets/9ea625db-bf78-47cf-a5c1-bb5a42d618d8)
 
 ## Color Palette
 ![Paleta](https://github.com/user-attachments/assets/bfe3dc6a-2f32-4e4a-9617-9bf392546e58)
