@@ -1,0 +1,25 @@
+﻿{
+  "name": "Netflix Dashboard PBI Theme",
+  "dataColors": [
+    "#E50914",
+    "#FF848A",
+    "#B20710",
+    "#8B0007",
+    "#999999",
+    "#666666",
+    "#221F1F",
+    "#F5F5F1"
+  ],
+
+  "icons": {
+    "Red circle": {
+      "description": "Red circle",
+      "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%23E50914'/></svg>"
+    },
+
+    "Dark red circle": {
+      "description": "Dark red circle",
+      "url": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%238B0007'/></svg>"
+    }
+  }
+}
