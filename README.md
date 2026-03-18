@@ -67,34 +67,32 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
 
 ![Aba1](https://github.com/user-attachments/assets/2aec2ef2-ded4-4724-9a4a-d4959c53b070)
 
-
 **Temporal Evolution:** Análise da evolução do catálogo ao longo do tempo.  
 🎯 **Objetivo:** identificar crescimento, padrões e mudanças ao longo dos anos.
 
 ![Aba2](https://github.com/user-attachments/assets/b97390af-396a-48c7-b88b-67c7a8016336)
-
 
 **Geographic Distribution:** Distribuição geográfica dos conteúdos.  
 🎯 **Objetivo:** analisar origem dos títulos e concentração global.
 
 ![Aba3](https://github.com/user-attachments/assets/7a033cd8-e56f-4684-a4fe-0a2395e0fe53)
 
-
 **Profile Analysis:** Análise do perfil editorial do catálogo.  
 🎯 **Objetivo:** entender gêneros, profissionais e características dos conteúdos.
 
 ![Aba4](https://github.com/user-attachments/assets/3e11c867-4caf-44eb-9a54-6f14fe91a665)
-
 
 **Database:** Tabela interativa com todos os dados.  
 🎯 **Objetivo:** permitir exploração detalhada pelo usuário.
 
 ![Aba5](https://github.com/user-attachments/assets/49a32c85-6912-42e1-b71d-8a7cb7a8102a)
 
-
 **Tooltip:** Em todas as abas, no canto superior direito, há um ícone de informação em que, ao usuário passar o mouse por cima, revela-se uma tooltip com informações sobre o dashboard, sobre a fonte dos dados e o propósito deste projeto. A imagem abaixo mostra a primeira aba, mas dessa vez com a tooltip informativa aberta.
 
 ![Tooltip](https://github.com/user-attachments/assets/522295c0-cb4f-48da-95a7-a6f0d856d968)
+
+## Paleta de Cores
+![Paleta](https://github.com/user-attachments/assets/eeb7d9d5-3822-4f8e-a4f3-2a9b521e4b6f)
 
 ## Principais Insights
 &nbsp;&nbsp;&nbsp;&nbsp;A análise do catálogo da Netflix ao longo do período de 2008 a 2021 revela padrões claros de crescimento, posicionamento estratégico e distribuição de conteúdo.
