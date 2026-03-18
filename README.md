@@ -52,15 +52,15 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
   - `Medidas sensíveis ao contexto:` Medidas que se adaptam ao contexto de filtros do usuário.
 
 - **Visual e Experiência do Usuário (UX)**
-  - `Formatação condicional via medida:` Aplicação dinâmica de cores em gráficos com base em regras;
-  - `Destaque automático:` Destaque visual do elemento mais relevante em gráficos;
-  - `Ícones .svg via arquivo .json do tema:` Uso de ícones personalizados embutidos no tema, utilizados na formatação condiconal;
+  - `Formatação condicional via medida:` Aplicação dinâmica de cores em gráficos com base em regras.
+  - `Destaque automático:` Destaque visual do elemento mais relevante em gráficos.
+  - `Tema personalizado do Power BI:` Criação de um tema para o dashboard, contendo a paleta de cores e ícones personalizados embutidos, utilizados na formatação condiconal (📁 [Veja o script do tema aqui](netflix_dashboard_pbi_theme.json)).
   - `Renderização de imagens via URL:` Exibição dinâmica de bandeiras por país, tornando tabelas mais visuais.
 
 - **Modelagem de Dados**
-  - Separação de colunas multivaloradas (gêneros, elenco, diretores, países);
-  - Estrutura dos dados no esquema estrela;
-  - Uso de colunas auxiliares para ordenar categorias corretamente;
+  - Separação de colunas multivaloradas (gêneros, elenco, diretores, países).
+  - Estrutura dos dados no esquema estrela.
+  - Uso de colunas auxiliares para ordenar categorias corretamente.
 
 ## Acesse o Dashboard
 [Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
