@@ -62,6 +62,9 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
   - Estrutura dos dados no esquema estrela;
   - Uso de colunas auxiliares para ordenar categorias corretamente;
 
+## Acesse o Dashboard
+[Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
+
 ## Estrutura do Dashboard
 **Executive Overview:** Visão geral com principais indicadores e distribuição do catálogo.  
 🎯 **Objetivo:** fornecer um resumo executivo para rápida compreensão do cenário geral.
