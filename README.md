@@ -96,7 +96,7 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
 ![Tooltip](https://github.com/user-attachments/assets/522295c0-cb4f-48da-95a7-a6f0d856d968)
 
 ## Paleta de Cores
-![Paleta](https://github.com/user-attachments/assets/bfe3dc6a-2f32-4e4a-9617-9bf392546e58)
+![Paleta](https://github.com/user-attachments/assets/cda46bf5-23ac-4261-aafc-db6bd484b7ca)
 
 ## Principais Insights
 &nbsp;&nbsp;&nbsp;&nbsp;A análise do catálogo da Netflix ao longo do período de 2008 a 2021 revela padrões claros de crescimento, posicionamento estratégico e distribuição de conteúdo.
