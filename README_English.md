@@ -66,32 +66,38 @@ Additionally, the dashboard was designed to answer the following analytical ques
 [Click here to access the dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
 
 ## Dashboard Structure
-**Executive Overview:** Overview with key indicators and catalog distribution.  
+### Executive Overview
+Overview with key indicators and catalog distribution.  
 🎯 **Objective:** provide an executive summary for quick understanding of the overall scenario.
 
 ![Aba1](https://github.com/user-attachments/assets/8cb8d2ef-543b-4ab5-b0a1-bcc205c45ba4)
 
-**Temporal Evolution:** Analysis of catalog evolution over time.  
+### Temporal Evolution
+Analysis of catalog evolution over time.  
 🎯 **Objective:** identify growth, patterns, and changes over the years.
 
 ![Aba2](https://github.com/user-attachments/assets/acfb9872-0627-43db-a62e-b35e6d135f64)
 
-**Geographic Distribution:** Geographic distribution of content.  
+### Geographic Distribution
+Geographic distribution of the content catalog.  
 🎯 **Objective:** analyze the origin of titles and global concentration.
 
 ![Aba3](https://github.com/user-attachments/assets/7a033cd8-e56f-4684-a4fe-0a2395e0fe53)
 
-**Profile Analysis:** Analysis of the catalog’s editorial profile.  
+### Profile Analysis
+Analysis of the catalog’s editorial profile.  
 🎯 **Objective:** understand genres, professionals, and content characteristics.
 
 ![Aba4](https://github.com/user-attachments/assets/3e11c867-4caf-44eb-9a54-6f14fe91a665)
 
-**Database:** Interactive table with all data.  
+### Database
+Interactive table with all data.  
 🎯 **Objective:** allow detailed exploration by the user.
 
 ![Aba5](https://github.com/user-attachments/assets/49a32c85-6912-42e1-b71d-8a7cb7a8102a)
 
-**Tooltip:** On all pages, in the top-right corner, there is an information icon that, when hovered over, reveals a tooltip with details about the dashboard, the data source, and the purpose of this project. The image below shows the first page with the informational tooltip open.
+### Tooltip
+On all pages, in the top-right corner, there is an information icon that, when hovered over, reveals a tooltip with details about the dashboard, the data source, and the purpose of this project. The image below shows the first page with the informational tooltip open.
 
 ![Tooltip](https://github.com/user-attachments/assets/9ea625db-bf78-47cf-a5c1-bb5a42d618d8)
 
