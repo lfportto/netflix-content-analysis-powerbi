@@ -63,7 +63,7 @@ Além disso, o dashboard foi projetado para responder às seguintes perguntas an
   - Uso de colunas auxiliares para ordenar categorias corretamente.
 
 ## Acesse o Dashboard
-[Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
+🔗 [Clique aqui para acessar o dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
 
 ## Estrutura do Dashboard
 ### Executive Overview
