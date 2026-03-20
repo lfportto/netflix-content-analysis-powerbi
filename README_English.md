@@ -63,7 +63,7 @@ Additionally, the dashboard was designed to answer the following analytical ques
   - Use of support columns to correctly sort categories.
 
 ## Access the Dashboard
-[Click here to access the dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
+🔗 [Click here to access the dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiYjc5OWVlMzUtMmZlNS00NWVhLWI3OTQtYzJiODkyNjcyMTkxIiwidCI6ImNmNzJlMmJkLTdhMmItNDc4My1iZGViLTM5ZDU3YjA3Zjc2ZiIsImMiOjR9&pageName=36e59d76a072732c0365)
 
 ## Dashboard Structure
 ### Executive Overview
